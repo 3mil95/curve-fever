@@ -1,6 +1,6 @@
 const canvas = document.getElementById('canvas');
 const ctx = canvas.getContext("2d");
-ctx.lineWidth = 20;
+ctx.lineWidth = 10;
 ctx.fillStyle = "#ffffff"
 
 players = [];
